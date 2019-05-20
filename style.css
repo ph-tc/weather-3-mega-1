@@ -491,7 +491,7 @@ img {
 	transform: translate(-50%, -50%);
 	font-family: 'Open Sans', sans-serif;
 	font-size: 32px;
-	font-weight: 600;
+	font-weight: bold;
 	line-height: 32px;
 	color: #fff;
 	text-shadow: 0 4px 7px rgba(0, 0, 0, 0.31);
