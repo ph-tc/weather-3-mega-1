@@ -546,7 +546,7 @@ img {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 10px;
 	line-height: 1;
-	color: #ddd;
+	color: #eee;
 }
 
 @media screen and (max-height: 230px) and (orientation: landscape) {
